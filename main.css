@@ -1,0 +1,18 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, header, nav, button {
+    font-family: 'Raleway', sans-serif;
+}
+
+.menu {
+    display: flex;
+    font-size: 40px;
+    padding: 20px 40px;
+    color: burlywood;
+}
+
+.menu-item {
+    padding: 0 20px;
+}
